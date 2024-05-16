@@ -1,5 +1,5 @@
 
-<img align="right" width="50%" height="200em" src="https://github-readme-stats.vercel.app/api?username=Arthur-Rosa&theme=dracula&show_icons=true" >
+<img align="right" width="50%" height="200em" src="https://github-readme-stats.vercel.app/api?username=MatheusBalbino23&theme=dracula&show_icons=true" >
 
 ## Matheus Balbino
 
@@ -17,7 +17,7 @@
 
   <img align="left" alt="" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="left" alt="" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="left" alt="" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg">
+  <img align="left" alt="" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
   <img align="left" alt="" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="left" alt="" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
