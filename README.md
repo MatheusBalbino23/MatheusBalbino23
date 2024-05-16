@@ -11,13 +11,13 @@
 <br>
 
 
-<img width="50%" align="left" height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Balbino&layout=compact&theme=dracula&langs_count=8&show_icons=true"/>
+<img width="50%" align="left" height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBalbino23&layout=compact&theme=dracula&langs_count=8&show_icons=true"/>
 
 ## Habilidades
 
   <img align="left" alt="" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="left" alt="" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="left" alt="" height="30" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+  <img align="left" alt="" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg">
   <img align="left" alt="" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="left" alt="" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
