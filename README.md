@@ -3,7 +3,7 @@
 
 ## Matheus Balbino
 
-- :two_hearts: Desenvolvimento de Sistemas - Técnico
+- :star2: Desenvolvimento de Sistemas - Técnico
 - :star2: Atuo com DevOps && Node
 - :computer: Desenvolvedor FullStack
 - :boom: Java | JavaScript | C++ | HTML | CSS | SQL
