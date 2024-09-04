@@ -5,7 +5,7 @@
 
 - :star2: Desenvolvimento de Sistemas - Técnico
 - :computer: Desenvolvedor FullStack
-- :boom: Java | JavaScript | C++ | HTML | CSS | SQL
+- :boom: Java | JavaScript | Python | HTML | CSS | SQL
 
 <hr>
 <br>
